@@ -1,0 +1,7 @@
+<svg baseProfile="tiny" height="200" version="1.2" width="200" xmlns="http://www.w3.org/2000/svg"
+	xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs />
+	<path
+		d="M10,21  L11,22 L12,22 L13,22 L14,21 L15,21 L16,20 L16,19 L16,18 L16,17 L16,16 L15,15 L14,15 L13,15 L12,15 L11,15 L10,14 L10,13 L10,12 L10,11 L11,10 L12,9 L13,8 L14,7 L15,7 L16,7 L17,8 L18,9 L18,10 L17,11 L17,12 L17,13 L17,14"
+		stroke-width="0.5" stroke="white" fill="none" />
+</svg>
