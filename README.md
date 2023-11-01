@@ -13,7 +13,7 @@ Before running the code, you'll need to install the necessary libraries. You can
 
 ```bash
 pip install keras matplotlib tensorflow
-
+```
 ### Running the Code
 
 1. ### GAN Initialization (GAN_INIT)
