@@ -16,14 +16,14 @@ pip install keras matplotlib tensorflow
 ```
 ### Running the Code
 
-1. ### GAN Initialization (GAN_INIT)
+##1. GAN Initialization (GAN_INIT)
    1. Open the Jupyter Notebook.
    2. Navigate to the GAN_INIT notebook.
    3. Run GAN_INIT. Please note that GAN_INIT may take approximately 30 minutes to run, but the runtime may vary depending on your hardware.
 
    # OR
 
-1. ### Second GAN Run (GAN_SECOND_RUN)
+##1. Second GAN Run (GAN_SECOND_RUN)
    1. Open the Jupyter Notebook.
    2. Navigate to the GAN_SECOND_RUN notebook.
    3. Run GAN_SECOND_RUN. This notebook contains two runs:
