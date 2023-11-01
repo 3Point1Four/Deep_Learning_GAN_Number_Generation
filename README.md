@@ -1,12 +1,18 @@
-## Deep Learning Number Generation
+# Deep Learning Number Generation
 
-### Overview
+## Overview
 This repository contains code for training a Generative Adversarial Network (GAN) to generate images of handwritten digits. The generated images can be customized to correspond to a specified digit. Below are instructions on how to run the code and check the examples.
 
-### Prerequisites
+## Prerequisites
 To run the code in this repository, make sure you have the following installed:
 - Python (>= 11.5)
 - Jupyter Notebook
+
+### Installing Required Libraries
+Before running the code, you'll need to install the necessary libraries. You can do this using pip:
+
+```bash
+pip install keras matplotlib tensorflow
 
 ### Running the Code
 
@@ -15,7 +21,7 @@ To run the code in this repository, make sure you have the following installed:
    2. Navigate to the GAN_INIT notebook.
    3. Run GAN_INIT. Please note that GAN_INIT may take approximately 30 minutes to run, but the runtime may vary depending on your hardware.
 
-#OR
+   ###OR
 
 1. ### Second GAN Run (GAN_SECOND_RUN)
    1. Open the Jupyter Notebook.
