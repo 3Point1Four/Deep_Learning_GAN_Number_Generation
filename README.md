@@ -178,8 +178,8 @@ There are 2 folders containing outputs.
 ### This folder contains assets used when running the code the first time.
 
 #### Important files are:
-- 9.png 
-![9.png](https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png)
+- 9.png
+- <img src="[drawing.jpg](https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png)" alt="9.png" width="200"/>
 This is the example image requested after GAN was run first.
 - skeleton_image.png
 ![skeleton image](https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/skeleton_image.png)
