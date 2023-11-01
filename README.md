@@ -1,5 +1,5 @@
 
-<h1 align="center">Deep Learning Number Generation</h1>
+<a id="top"></a><h1 align="center">Deep Learning Number Generation</h1>
 
   
 
@@ -204,3 +204,5 @@ Final vector output with curvature applied.
 
 
 Happy digit generation!
+
+> [↑](#top)<```back to top```
