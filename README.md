@@ -178,14 +178,21 @@ There are 2 folders containing outputs.
 ### This folder contains assets used when running the code the first time.
 
 #### Important files are:
+
 - 9.png
-  <img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png" alt="9.png" width="200"/>
+  
+<img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png" alt="9.png" width="200"/>
+
 This is the example image requested after GAN was run first.
+
 - skeleton_image.png
+  
 <img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/skeleton_image.png" alt="skeleton image" width="200"/>
+
 This is the image skeleton of said example.
 
 - final_path.txt
+  
 This is a text file containing the points extrapolated.
 
 ## OP_Assets
@@ -195,7 +202,9 @@ This is a text file containing the points extrapolated.
 #### Important files are:
 
 - output_lines.svg
-![blocky figure 9](https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/OP_Assets/output_lines%20.svg)
+- 
+<img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/OP_Assets/output_lines%20.svg" alt="blocky figure 9" width="200"/>
+![blocky figure 9]()
 Final vector output without any curvature applied.
 
 - output_curves.svg
