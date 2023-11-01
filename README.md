@@ -179,10 +179,10 @@ There are 2 folders containing outputs.
 
 #### Important files are:
 - 9.png
-- <img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png" alt="9.png" width="200"/>
+  <img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/9.png" alt="9.png" width="200"/>
 This is the example image requested after GAN was run first.
 - skeleton_image.png
-![skeleton image](https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/skeleton_image.png)
+<img src="https://github.com/3Point1Four/Deep_Learning_GAN_Number_Generation/blob/main/Running_Assets/skeleton_image.png" alt="skeleton image" width="200"/>
 This is the image skeleton of said example.
 
 - final_path.txt
